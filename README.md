@@ -1,4 +1,4 @@
-[Deployed Website](adopt-connect.vercel.app)
+[Deployed Website](https://adopt-connect.vercel.app/)
 
 # What problem do we solve?
 

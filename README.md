@@ -1,4 +1,4 @@
-<a href="adopt-connect.vercel.app">
+<a href="adopt-connect.vercel.app" target="_blank">
 Deployed Website
 </a>
 
